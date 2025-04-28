@@ -38,6 +38,8 @@ A simple and clean Todo Application built with the latest Android tech stack:
 | [MVVM Architecture](https://developer.android.com/jetpack/guide) | Application Architecture |
 | [Kotlin Coroutines](https://developer.android.com/kotlin/coroutines) | Asynchronous programming |
 
+---
+
 ## 🧹 Clean Architecture Principles
 
 - **Separation of concerns**: Each layer has a specific responsibility.
