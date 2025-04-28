@@ -23,9 +23,9 @@ A simple and clean Todo Application built with the latest Android tech stack:
 ---
 
 ## 📸 Screenshots
-| Home Screen | Add Todo | Mark as Done |
-|:---:|:---:|:---:|
-| ![home](./screenshots/home.png) | ![add](./screenshots/add.png) | ![done](./screenshots/done.png) |
+| Home Screen | Add Todo |
+|:---:|:---:|
+| ![home](https://sufiyan-12.github.io/images/todo_app_empty_screen.png) | ![add](https://sufiyan-12.github.io/images/todo_app_data_screen.png)|
 
 ---
 
