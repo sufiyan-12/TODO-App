@@ -29,7 +29,7 @@ A simple and clean Todo Application built with the latest Android tech stack:
 
 ---
 
-# 🏗️ Tech Stack
+## 🏗️ Tech Stack
 | Tool | Usage |
 |:---|:---|
 | [Jetpack Compose](https://developer.android.com/jetpack/compose) | Building declarative UIs |
