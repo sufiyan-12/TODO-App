@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:2:1-28:12
+ADDED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:2:1-29:12
 MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] C:\Users\msufi\.gradle\caches\8.9\transforms\d045f2c94928aa0b3fc4ec50f1a09131\transformed\hilt-navigation-compose-1.2.0\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.hilt:hilt-navigation:1.2.0] C:\Users\msufi\.gradle\caches\8.9\transforms\0ecea041331c70a38bdf16dae52601e4\transformed\hilt-navigation-1.2.0\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.dagger:hilt-android:2.51] C:\Users\msufi\.gradle\caches\8.9\transforms\74f18b72bb8cac7cb488af73d8505e02\transformed\hilt-android-2.51\AndroidManifest.xml:16:1-19:12
@@ -81,8 +81,8 @@ MERGED from [com.google.dagger:dagger-lint-aar:2.51] C:\Users\msufi\.gradle\cach
 	xmlns:android
 		ADDED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:5:5-26:19
-INJECTED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:5:5-26:19
+ADDED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:5:5-27:19
+INJECTED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:5:5-27:19
 MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\msufi\.gradle\caches\8.9\transforms\b8fa203077cbc5304ddc6d7c2e441ffc\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
 MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\msufi\.gradle\caches\8.9\transforms\b8fa203077cbc5304ddc6d7c2e441ffc\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
 MERGED from [androidx.compose.ui:ui-tooling-android:1.6.6] C:\Users\msufi\.gradle\caches\8.9\transforms\4473448b4cf26e54201c6b0756534197\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
@@ -114,7 +114,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ms
 	android:roundIcon
 		ADDED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:11:9-54
 	tools:targetApi
-		ADDED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:14:9-29
+		ADDED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:15:9-29
 	android:icon
 		ADDED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:9:9-43
 	android:allowBackup
@@ -123,26 +123,28 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ms
 		ADDED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:13:9-45
 	android:dataExtractionRules
 		ADDED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:7:9-65
+	android:name
+		ADDED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:14:9-52
 activity#com.modern.todoapp.MainActivity
-ADDED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:15:9-25:20
+ADDED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:16:9-26:20
 	android:label
-		ADDED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:18:13-45
+		ADDED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:19:13-45
 	android:exported
-		ADDED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:17:13-36
+		ADDED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:18:13-36
 	android:theme
-		ADDED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:19:13-49
+		ADDED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:20:13-49
 	android:name
-		ADDED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:16:13-41
+		ADDED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:17:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:20:13-24:29
+ADDED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:21:13-25:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:21:17-69
+ADDED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:21:25-66
+		ADDED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:23:17-77
+ADDED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:23:27-74
+		ADDED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml:24:27-74
 uses-sdk
 INJECTED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\msufi\AndroidStudioProjects\TODOApp\app\src\main\AndroidManifest.xml
